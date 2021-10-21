@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zNipunShaha
 - 👀 I’m interested in python, datascience and blockchain
 - 🌱 I’m currently learning basics of coding
-- 💞️ I’m looking to collaborate if you are looking someone who can help you with lead gen. 
+- 💞️ I’m looking to collaborate if you are looking for lead generation as I have experience in same. 
 - 📫 How to reach me Linkedin - https://www.linkedin.com/in/nipun-shah/
 
 <!---
